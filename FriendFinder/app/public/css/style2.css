@@ -1,0 +1,50 @@
+
+body {
+    background-color: rgb(54, 54, 54);
+}
+#header{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+    background-color: #337ab7;
+    border-radius: 5px;
+}
+#userName{
+    color: black;
+}
+#globe{
+    padding-top: 20px;
+    font-size: 80px;
+    color: white;
+}
+h1{
+    font-size: 80px;
+    color: white;
+}
+.container{
+    background-color: #337ab7;
+    margin-top: 2%;
+    border-radius: 5px;
+}
+#questions{
+    color: white;
+}
+h3{
+    font-size: 60px;
+}
+#content{
+    margin-left: 20px;
+}
+#question1, #question2, #question3, #question4, #question5,
+#question6, #question7, #question8, #question9, #question10{
+    color: black;
+}
+#submitButton{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+    font-size: 40px;
+    background-color: red;
+}
